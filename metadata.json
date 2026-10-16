@@ -1,0 +1,6 @@
+{
+  "name": "月映しの盃 - 月見・花見酒と静謐な日本画の庵",
+  "description": "古民家の縁側から満月と夜桜、瞬く星空を愛で、朱の盃にお酒を注ぎ月を映す、風情と静けさに満ちた日本画風の月見酒体験。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
